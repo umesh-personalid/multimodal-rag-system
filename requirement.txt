@@ -1,0 +1,22 @@
+# Core ML / Deep Learning
+transformers
+scikit-learn
+Pillow
+
+# LangChain Ecosystem
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# Vector Database
+faiss-cpu
+
+# Utilities
+tiktoken
+sentence-transformers
+python-dotenv
+
+accelerate
+safetensors
+pymupdf
