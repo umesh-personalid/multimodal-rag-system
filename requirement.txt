@@ -19,4 +19,4 @@ python-dotenv
 
 accelerate
 safetensors
-pymupdf
+pymupdf 
